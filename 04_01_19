@@ -1,3 +1,7 @@
 started learning git
-used git clone
+used git status: shows the current working branch and status of the repo
+used git clone: downloads git repository to local working directory
+git pull: it compares your local repository with git repository then downloads any changes added to git repository
+git checkout -b: to create new branch
+
 
